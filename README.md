@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 -->
 
 
-<em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LhdDream&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
