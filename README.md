@@ -30,10 +30,9 @@ Here are some ideas to get you started:
 ## 🤔Social platform
 
 <div>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=lhddream-w">
+  <img align = "left" src= "https://stats.justsong.cn/api/leetcode?username=lhddream-w&cn=true" />
   <img src="https://stats.justsong.cn/api/csdn?id=dream0130__" />
 </div>
-
 
 ## ⚡Coding Time
 
