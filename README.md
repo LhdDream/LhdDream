@@ -21,8 +21,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🤔Social platform
+<div>
+  <img align = "left" src="https://stats.justsong.cn/api/leetcode?username=lhddream-w&cn=true" />
+  <img src="https://stats.justsong.cn/api/csdn?id=dream0130__" />
+</div>
 
-## 🌠Coding Time
+## ⚡ Coding Time
 
 
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=LhdDream&theme=dark&show_icons=true) -->
@@ -32,5 +37,6 @@ Here are some ideas to get you started:
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=LhdDream&theme=dark&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LhdDream&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=dark&langs_count=6&layout=compact" />
 </div>
+
 
 
