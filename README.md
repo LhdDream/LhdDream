@@ -30,12 +30,9 @@ Here are some ideas to get you started:
 
 ## 🤔Social platform
     
+![eror](https://stats.justsong.cn/api/leetcode?username=lhddream-w&cn=true "title")
+![eror](https://stats.justsong.cn/api/csdn?id=dream0130__ "title")
 
-    
-<div>
-  <img align = "left" src= "https://stats.justsong.cn/api/leetcode?username=lhddream-w&cn=true&time=new Date()" />
-  <img src="https://stats.justsong.cn/api/csdn?id=dream0130__&time=new Date()" />
-</div>
 
  
 ## ⚡Coding Time
