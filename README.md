@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## 😄 social platform
 
 <p>
-  <img src="https://readme-stats-curly210102.vercel.app/api/leetcode?username=lhddream-w&region=cn" alt="JustSong's LeetCode Stats" width="58%" />
+  <img src="https:///stats.justsong.cn/api/leetcode?username=lhddream-w&region=cn" alt="JustSong's LeetCode Stats" width="58%" />
   <img src="https://stats.justsong.cn/api/csdn?id=dream0130__" alt="dream0130__`s blog" width="37%" />
 </p>
 
