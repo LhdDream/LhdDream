@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
     
 <div>
-  <img align = "left" src= "https://stats.justsong.cn/api/leetcode?username=lhddream-w&cn=true&t1="+Math.random() />
-  <img src="https://stats.justsong.cn/api/csdn?id=dream0130__&t1="+Math.random() />
+  <img align = "left" src= "https://stats.justsong.cn/api/leetcode?username=lhddream-w&cn=true&time=new Date()" />
+  <img src="https://stats.justsong.cn/api/csdn?id=dream0130__&time=new Date()" />
 </div>
 
  
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LhdDream&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
 
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=LhdDream&theme=dark&show_icons=true&t1="+Math.random() />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LhdDream&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=dark&langs_count=6&layout=compact&t1="+Math.random() />
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=LhdDream&theme=dark&show_icons=true&time=new Date()" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LhdDream&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=dark&langs_count=6&layout=compact&time=new Date()" />
 </div>
 
 
