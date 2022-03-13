@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   <img src="https://stats.justsong.cn/api/csdn?id=dream0130__" />
 </div>
 
- ![avatar](https://stats.justsong.cn/api/leetcode?username=lhddream-w&cn=true) 
  
 ## ⚡Coding Time
 
