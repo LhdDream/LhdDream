@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LhdDream&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-You are  My ![Visitor Count](https://profile-counter.glitch.me/LhdDream/count.svg) visitor
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LhdDream&layout=compact)](https://github.com/LhdDream/github-readme-stats)
