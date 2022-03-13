@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://stats.justsong.cn/api/csdn?id=dream0130__" />
 </div>
 
-## ⚡ Coding Time
+## ⚡Coding Time
 
 
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=LhdDream&theme=dark&show_icons=true) -->
@@ -39,4 +39,6 @@ Here are some ideas to get you started:
 </div>
 
 
+## 😄Coding frequency 
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=LhdDream&theme=xcode" /> </div>
