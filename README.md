@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm leaner 👨‍💻 </h1>
 
-<h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
+
 
 
 <!--
