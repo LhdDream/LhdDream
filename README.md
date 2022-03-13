@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <p>
-  <img src="https://stats.justsong.cn/api/leetcode?username=lhddream-w&cn=true" alt="JustSong's LeetCode Stats" width="49%" />
+  <img src="https://readme-stats-curly210102.vercel.app/api/leetcode?username=lhddream-w&region=cn" alt="JustSong's LeetCode Stats" width="49%" />
   <img src="https://stats.justsong.cn/api/csdn?id=dream0130__" alt="dream0130__`s blog" width="49%" /> 
 </p>
 
