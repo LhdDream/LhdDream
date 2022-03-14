@@ -11,7 +11,15 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 </p>
 
+- 🔭 I’m currently working on **Xiaomi**
 
+- 🌱 I’m currently learning **CDN、Golang**
+
+- 📝 I regularly write articles on [Blog](https://blog.csdn.net/dream0130__)
+
+- 📫 How to reach me [mail](lvhaidong@xiyoulinux.org)
+
+- ⚡ Fun fact **Coding**
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I like group programming, if you are too, I am very happy that we can lift the friendship <del>🚢big ship</del> boat together and set sail.</em>
 
@@ -43,3 +51,5 @@ Here are some ideas to get you started:
 
 
 </html>
+
+
