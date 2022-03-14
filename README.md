@@ -39,12 +39,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LhdDream&layout=compact&hide_border=true&langs_count=10" alt="LhdDream's Top Langs" width="37%" /> 
 </p>
     
-## 😄 social platform
 
-<p>
-  <img src="https://stats.justsong.cn/api/leetcode?username=lhddream-w&cn=true" alt="JustSong's LeetCode Stats" width="49%" />
-  <img src="https://stats.justsong.cn/api/csdn?id=dream0130__" alt="dream0130__`s blog" width="49%" /> 
-</p>
 
 
 </html>
